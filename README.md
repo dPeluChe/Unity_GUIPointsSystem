@@ -15,7 +15,7 @@ ________
 <a class="anchor" href="#DocuENG" aria-hidden="true"></a>
 ##Documentation
 
-Using GUIpointsSystem.cs [Codigo](https://github.com/dPeluChe/Unity_GUIPointsSystem/tree/master/_Code) you can create any number using one sprite which contains (0-9 numbers). The script creates gameObjects and Sprites helping the conservation of size, format and space for the numbers in any platform that you will export the project. 
+Using GUIpointsSystem.cs [Code](https://github.com/dPeluChe/Unity_GUIPointsSystem/tree/master/_Code) you can create any number using one sprite which contains (0-9 numbers). The script creates gameObjects and Sprites helping the conservation of size, format and space for the numbers in any platform that you will export the project. 
 
 **Sprite Format**:
 ![Image Example](http://dpeluchestudios.com/Github/Unity_GUIPointsSystem/Sizes.PNG)
@@ -29,7 +29,7 @@ We recommend that the sprite with the digits must have  the same size for exampl
 
 ![Image Example](http://dpeluchestudios.com/Github/Unity_GUIPointsSystem/Sizes.PNG)
 
-You can download our PSD example file: [Archivo]( https://github.com/dPeluChe/Unity_GUIPointsSystem/tree/master/_Imgs)
+You can download our PSD example file: [File]( https://github.com/dPeluChe/Unity_GUIPointsSystem/tree/master/_Imgs)
 
 
 ##Initialiation
